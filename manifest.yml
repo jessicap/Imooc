@@ -1,0 +1,8 @@
+---    
+applications:   
+
+- name: Imooc-app       
+
+  command: node app.js  
+
+  memory: 512M

@@ -1,0 +1,24 @@
+{
+  "name": "Imooc",
+  "version": "0.0.1",
+  "authors": [
+    "jessicap <ningning_1991@163.com>"
+  ],
+  "description": "Imooc movie",
+  "keywords": [
+    "Imooc"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
